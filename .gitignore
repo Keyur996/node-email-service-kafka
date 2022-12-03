@@ -1,0 +1,10 @@
+# generated files
+node_modules/
+.git
+.vscode
+coverage/
+
+# configurations
+.env
+.env.development
+.env.production
